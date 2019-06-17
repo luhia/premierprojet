@@ -1,0 +1,9 @@
+créer un dossier => clic droit => git bash here
+
+ng new library
+
+cd library
+
+ng serve
+
+localhost:4200
